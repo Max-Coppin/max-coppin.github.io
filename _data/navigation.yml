@@ -1,0 +1,18 @@
+# main links
+main:
+# links
+main:
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publication/
+  - title: "Codes"
+    url: /codes/
+  - title: "Talks & Events"
+    url: /events/   
+  - title: "Movies"
+    url: /movies/ 
+  - title: "Outreach"
+    url: /outreach/  
+  - title: "CV"
+    url: "./file/CV.pdf"
