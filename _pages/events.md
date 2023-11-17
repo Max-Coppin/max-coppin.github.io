@@ -11,7 +11,7 @@ header:
 ---
 ## Presentations 
 
-- Nov 2023 - Journée de la convection, Avignon (France), [oral presentation](../file/Journee_convection_Observation_convection_Plateform_Coriolis.pdf)
+- Nov 2023 - Journée de la convection, Avignon (France), [oral presentation](/assets/file/Journee_convection_Observation_convection_Plateform_Coriolis.pdf)
 
 ## Summer school
 
