@@ -11,4 +11,8 @@ header:
 ---
 ## Presentations 
 
-- Nov 2023 - Journée de la convection, Avignon (France), Poster 
+- Nov 2023 - Journée de la convection, Avignon (France), [oral presentation](./file/Journee_convection_Observation_convection_Plateform_Coriolis)
+
+## Summer school
+
+- Apr 2023 - Fluid mechanics of planets and stars, CISM Udine (Italy) 
