@@ -7,7 +7,11 @@ title: "Movie"
 toc: false
 header:
   overlay_color: "#000"
-  #overlay_image: /assets/physindien/IMG_4395.JPG
+  
 ---
 ## Nice plot
 
+<video width="640" height="360" controls>
+  <source src="/file/stabilite.mp4" type="video/mp4">
+  Votre navigateur ne prend pas en charge la balise vidéo.
+</video>
