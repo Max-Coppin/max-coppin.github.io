@@ -305,6 +305,15 @@ defaults:
       layout: single
       author_profile: true
 
+# Configuration de la page d'accueil
+permalink: /
+layout: single
+title: "Homepage"
+author_profile: true
+author: Max Coppin
+
+      
+      
 defaults:
   # _docs
   - scope:
