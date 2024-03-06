@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "max.coppin@univ-grenoble-alpes.fr"
+      url: "mailto:max.coppin@univ-grenoble-alpes.fr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://max-coppin.github.io"
