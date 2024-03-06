@@ -1,6 +1,7 @@
 ---
 
 permalink: / 
+layout: single 
 author_profile: true
 author: Max Coppin
 title: "Homepage"
