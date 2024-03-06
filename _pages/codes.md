@@ -10,7 +10,7 @@ header:
   #overlay_image: /assets/physindien/IMG_4395.JPG
 ---
 ## Software I use 
-**Obsidian$$
+**Obsidian
 ## Code and cheat sheet
 
 
