@@ -14,13 +14,9 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
-  <!-- Supprimez cette section pour retirer la mention des posts -->
   {% for post in posts %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
 
 {% include paginator.html %}
-
-{% capture homepage_content %}{% include_relative ../_pages/home.md %}{% endcapture %}
-{{ homepage_content | markdownify }}
