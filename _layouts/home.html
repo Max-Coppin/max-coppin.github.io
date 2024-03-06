@@ -21,5 +21,7 @@ layout: archive
 
 {% include paginator.html %}
 
-{% capture homepage_content %}{% include ../_pages/home.md %}{% endcapture %}
+{% capture homepage_path %}{{ site.source }}../_pages/home.md {% endcapture %}
+{% capture homepage_content %}{% include {{ ../_pages/home.md}} %}{% endcapture %}
 {{ homepage_content | markdownify }}
+
