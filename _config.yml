@@ -147,8 +147,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    - label: "ReasearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Coppin-Max"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
