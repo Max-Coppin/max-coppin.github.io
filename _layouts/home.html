@@ -22,6 +22,7 @@ layout: archive
 {% include paginator.html %}
 
 
-{% capture homepage_path %}{{/Users/maxcoppin/Documents/GitHub/Site/Site_perso}}/_pages/home.md{% endcapture%}
-{% capture homepage_content %}{% include {{ /Users/maxcoppin/Documents/GitHub/Site/Site_perso/_pages}} %}{% endcapture %}
+{% capture homepage_path %}/Users/maxcoppin/Documents/GitHub/Site/Site_perso/_pages/home.md{% endcapture %}
+{% capture homepage_content %}{% include {{ homepage_path }} %}{% endcapture %}
 {{ homepage_content | markdownify }}
+
