@@ -1,5 +1,5 @@
 ---
-
+layout: single 
 permalink: / 
 author_profile: true
 author: Max Coppin
