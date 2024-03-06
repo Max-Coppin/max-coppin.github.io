@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Max Coppin"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Max Coppin (inspired from [Charly de Marez's page](https://demarez.github.io/))"
+name                     : "Max Coppin (inspired from Charly de Marez's page (https://demarez.github.io/))"
 description              : "Personal web site"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -128,6 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "ReasearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Coppin-Max"
 
 # Site Footer
 footer:
