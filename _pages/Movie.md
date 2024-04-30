@@ -7,7 +7,7 @@ title: "Movie"
 toc: false
 header:
   overlay_color: "#000"
-  overlay_image: /file/KP-nice_plot-EXP15.jpeg
+  overlay_image: /file/fig_banniere.jpeg
   
 ---
 ## Nice plot
@@ -22,4 +22,4 @@ I'm currently studying this process, with in mind the frictional effect that sea
 
 
 <figure> <img src="/file/KP-nice_plot-EXP15.jpeg">
-<figcaption> visualisation of entrainment in a spin up experiment on the Coriolis platform (LEGI)</figcaption> </figure>
+<figcaption> Visualisation of entrainment in a spin up experiment on the Coriolis platform (LEGI). The figure shows the particles and a fluorescents colorant.</figcaption> </figure>
