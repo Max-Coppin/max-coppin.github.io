@@ -3,14 +3,14 @@ layout: single
 permalink: /movies/
 author_profile: false
 author: Max Coppin
-title: "Movie"
+title: "Gallery"
 toc: false
 header:
   overlay_color: "#000"
   overlay_image: /file/fig_banniere.jpeg
   
 ---
-## Nice plot
+## Nices plots
 
 <video width="640" height="360" controls>
   <source src="/file/stabilite.mp4" type="video/mp4">

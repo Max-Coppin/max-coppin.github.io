@@ -11,8 +11,5 @@ header:
   
   
 ---
-## Software I use 
-**Obsidian
-## Code and cheat sheet
 
 
