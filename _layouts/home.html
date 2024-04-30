@@ -2,33 +2,10 @@
 layout: archive
 ---
 
-  <!-- En-tête avec une image d'arrière-plan et overlay -->
-  <header class="header-banner" style="background-image: url('/file/fig_banniere.jpeg'); background-color: rgba(0, 0, 0, 0.5); background-blend-mode: multiply;">
-    <div class="header-content">
-      <!-- Contenu de votre en-tête, comme un titre ou autre -->
-      <h1>Homepage</h1>
-    </div>
-  </header>
-
   
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-
-{% include paginator.html %}
 
 <h1>Presentation</h1>
 <p>I’m a PhD student at LEGI and IGE (Grenoble, France) under Joel Sommeria and Bruno Deremble supervision. My field of study is geophysical fluid dynamics, and my thesis focuses on the modeling of ocean convection on the Coriolis platform.</p>
