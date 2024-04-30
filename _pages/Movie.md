@@ -7,6 +7,7 @@ title: "Movie"
 toc: false
 header:
   overlay_color: "#000"
+  overlay_image: /file/KP-nice_plot-EXP15.jpeg
   
 ---
 ## Nice plot
@@ -18,3 +19,7 @@ header:
 This film shows the stability of two vortices in a 2 +1/2 Rotating Shallow layer code. The vortices are in the middle layer of the model. The bottom layer is at rest and there is no mean flow in the upper layer. This simulation exhibits the influence of upper-lid friction (right) compared to a frictional-free situation.
 We observe that friction affects the stability by accelerating the splitting of the vortex. This is an interesting result since we would have expected friction to attenuate the growth rate of the perturbation.
 I'm currently studying this process, with in mind the frictional effect that sea ice has on the eddies under the sea ice in the Arctic.
+
+
+<figure> <img src="/file/KP-nice_plot-EXP15.jpeg">
+<figcaption> visualisation of entrainment in a spin up experiment on the Coriolis platform (LEGI)</figcaption> </figure>
