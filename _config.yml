@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Max Coppin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **Phd** student in Physical oceanography"
+  bio              : "I am a **Phd** student in Physical oceanography"
   location         : "IGE-LEGI Grenoble"
   email            :
   links:
