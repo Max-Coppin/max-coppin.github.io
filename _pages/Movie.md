@@ -12,6 +12,21 @@ header:
 ---
 ## Nices plots
 
+### Convection 
+
+<video width="640" height="360" controls>
+  <source src="/file/plume_IR_stratif.avi" type="video/avi">
+  Votre navigateur ne prend pas en charge la balise vidéo.
+</video>
+
+
+
+
+<figure> <img src="/file/KP-nice_plot-EXP15.jpeg">
+<figcaption> Visualisation of entrainment in a spin up experiment on the Coriolis platform (LEGI). The figure shows the particles and a fluorescents colorant.</figcaption> </figure>
+
+### Vortex dynamics
+
 <video width="640" height="360" controls>
   <source src="/file/stabilite.mp4" type="video/mp4">
   Votre navigateur ne prend pas en charge la balise vidéo.
@@ -21,5 +36,4 @@ We observe that friction affects the stability by accelerating the splitting of 
 I'm currently studying this process, with in mind the frictional effect that sea ice has on the eddies under the sea ice in the Arctic.
 
 
-<figure> <img src="/file/KP-nice_plot-EXP15.jpeg">
-<figcaption> Visualisation of entrainment in a spin up experiment on the Coriolis platform (LEGI). The figure shows the particles and a fluorescents colorant.</figcaption> </figure>
+
