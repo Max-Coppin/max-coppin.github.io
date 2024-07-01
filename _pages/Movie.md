@@ -15,7 +15,7 @@ header:
 ### Convection 
 
 <video width="640" height="360" controls>
-  <source src="/file/Plume_IR_stratif.avi" type="video/avi">
+  <source src="/file/Plume_IR_stratif.mp4" type="video/mp44">
   Votre navigateur ne prend pas en charge la balise vidéo.
 </video>
 
