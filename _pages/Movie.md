@@ -16,7 +16,9 @@ header:
 
 <video width="640" height="360" controls>
   <source src="/file/Plume_IR_stratif.mp4" type="video/mp4">
-  Votre navigateur ne prend pas en charge la balise vidéo.
+<figcaption>
+Video of surface temperature captured by an infrared camera. The experiment consists of heating the bottom of the water column (previously stratified in temperature). What can be seen at the beginning of the video is that there is convection between the surface of the water column, which is warmer than the surrounding air. Then, after a certain time (the appearance of larger white structures), the plumes created by the heating erode the stratification sufficiently to reach the surface.  The temperature is correlated to the level of grey, white representing hot and black cold. The deltat T is a few degrees Celsius.
+</figcaption>
 </video>
 
 
