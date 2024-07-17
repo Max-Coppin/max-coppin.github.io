@@ -19,14 +19,19 @@ header:
   <source src="/file/Plume_IR_stratif.mp4" type="video/mp4">
 </video>
 <figcaption>
-Video of surface temperature captured by an infrared camera. The experiment consists of heating the bottom of the water column (previously stratified in temperature). What can be seen at the beginning of the video is that there is convection between the surface of the water column, which is warmer than the surrounding air. Then, after a certain time (the appearance of larger white structures), the plumes created by the heating erode the stratification sufficiently to reach the surface.  The temperature is correlated to the level of grey, white representing hot and black cold. The deltat T is a few degrees Celsius.
+Video of surface temperature captured by an infrared camera. The experiment consists of heating the bottom of the water column (previously stratified in temperature). What can be seen at the beginning of the video is that there is convection between the surface of the water column, which is warmer than the surrounding air. Then, after a certain time (the appearance of larger white structures), the plumes created by the heating erode the stratification sufficiently to reach the surface.  The temperature is correlated to the level of grey, white representing hot and black cold. The delta T is a few degrees Celsius.
 </figcaption>
 
 
 
+<figure> <img src="/file/panach_horiz_coriolis.jpg">
+<figcaption> Visualisation of a thermal plume reaching the horizontal laser layer 10 cm above a heated floor during a convection experiment on the Coriolis platform (LEGI). The figure shows the fluorescent dye concentrated in the boundary layer rising as a plume. The experiment, carried out on the Coriolis platform, consists of heating the bottom of a thermally stable stratified water column. A layer of Rhodamine G is uniformly added to the bottom layer.
+</figcaption> </figure>
+
+
 
 <figure> <img src="/file/KP-nice_plot-EXP15.jpeg">
-<figcaption> Visualisation of entrainment in a spin up experiment on the Coriolis platform (LEGI). The figure shows the particles and a fluorescents colorant.</figcaption> </figure>
+<figcaption> Visualisation of entrainment in a spin up experiment on the Coriolis platform (LEGI). The figure shows the particles and a fluorescents dye.</figcaption> </figure>
 
 ### Vortex dynamics
 
