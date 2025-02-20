@@ -36,7 +36,7 @@ Video of surface temperature captured by an infrared camera. The experiment cons
 ### Vortex dynamics
 
 <video width="640" height="360" controls loop>
-  <source src="/file/Tourbillon-exp-38.avi" type="video/avi">
+  <source src="/file/Tourbillon-exp-38.mp4" type="video/mp4">
 </video>
 <figcaption>
 Video of surface temperature captured by an infrared camera. What can be seen is a vortex traveling accros the observed filed. It has been created during the filling of the tank. The core is colder that its shell. The temperature is correlated to the level of grey, white representing hot and black cold. The delta T is a few degrees Celsius.
