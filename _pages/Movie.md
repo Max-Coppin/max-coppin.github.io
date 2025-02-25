@@ -14,6 +14,10 @@ header:
 
 ### Convection 
 
+<figure> <img src="/file/EXP06_MAX_1_Colorized Stack90-110.jpg">
+<figcaption> Horizontal streaks of particules illuminated by LED. The figure shows the streamline of columnar structure at the center and a baroclinic jet near the edges . The experiment, carried in GFD lab at Oxford University, consists of heating the center of the bottom plate in a rotative frame. The differents color represent the moment of the motion.
+</figcaption> </figure>
+
 
 <video width="640" height="360" controls loop>
   <source src="/file/Plume_IR_stratif.mp4" type="video/mp4">
