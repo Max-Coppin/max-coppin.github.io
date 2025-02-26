@@ -12,8 +12,10 @@ header:
 ---
 ---
 ## Presentations 
+- Fev 2025 - OxOceanClimate Seminar, Oxford (England), [oral presentation](/file/GDR_climat_2024.pdf)
 - May 2024 - Workshop "Interfaces dans le système climatique", Grenoble (France), [oral presentation](/file/GDR_climat_2024.pdf)
 - Nov 2023 - Journée de la convection, Avignon (France), [oral presentation](/file/Journee_convection_Observation_convection_Plateform_Coriolis.pdf)
+
 
 ## Summer school
 
