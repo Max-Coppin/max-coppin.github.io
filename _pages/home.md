@@ -16,7 +16,7 @@ I’m a PhD student at LEGI and IGE (Grenoble, France) under Joel Sommeria and B
 ## Current project
 We explore the different regimes of convection as a function of the two major variables in geophysical fluids, namely rotation (through the Coriolis effect) and stratification. We also explore the influence of wind-induced stress.
 
-My study is based on a number of themes :
+My study is based on :
 
 - Turbulence in convection :
 How does turbulent kinetic energy evolve in a convective plume and in the mixing layer ?
