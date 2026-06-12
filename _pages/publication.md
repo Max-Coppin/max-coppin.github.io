@@ -10,8 +10,9 @@ header:
   overlay_image: /file/fig_banniere.jpeg
   
 ---
-## Peer-reviewed
 
+## Peer-reviewed
+**Max Coppin**, Bruno Deremble, and Joel Sommeria. Wind-mixed layer deepening in a rotating frame. Geophysical & Astrophysical Fluid Dynamics, 119(5):646--684, 2025. ( [DOI](https://www.tandfonline.com/doi/pdf/10.1080/03091929.2025.2609460)| [.pdf](/file/pub/wind-GAFD_2025.pdf) )
 
 ## Other 
 [Stability of mesoscale vortex under sea ice friction in the Arctic](/file/Rapport_stage_stability_vor_sea_ice_COPPIN_Max_POC.pdf) - _Master 2 internship under the supervision of **Xavier Carton** and **Camille Lique**_
