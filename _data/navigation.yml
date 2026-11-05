@@ -1,16 +1,11 @@
-
-# links
 main:
-
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publication/
-#  - title: "Codes"
-#    url: /codes/
   - title: "Talks & Events"
-    url: /events/   
-  - title: "Movies"
+    url: /events/
+  - title: "Gallery"
     url: /movies/
   - title: "CV"
-    url: "./file/CV.pdf"
+    url: /file/CV.pdf

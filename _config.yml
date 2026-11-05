@@ -19,11 +19,11 @@ locale                   : "en-US"
 title                    : "Max Coppin"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Max Coppin (inspired from Charly de Marez's page (https://demarez.github.io/))"
-description              : "Personal web site"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Max Coppin"
+description              : "Max Coppin – geophysical fluid dynamics, ocean convection, laboratory experiments"
+url                      : "https://max-coppin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Max-Coppin/max-coppin.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -105,58 +105,34 @@ analytics:
 # Site Author
 author:
   name             : "Max Coppin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **Phd** student in Physical oceanography"
-  location         : "IGE-LEGI Grenoble"
-  email            :
+  avatar           : # TODO: add a photo, e.g. "/file/photo.jpg"
+  bio              : "Research Fellow in geophysical fluid dynamics — rotating & stratified flows, coherent structures"
+  location         : "St Andrews, Scotland"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:max.coppin@univ-grenoble-alpes.fr"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://max-coppin.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:mc557@st-andrews.ac.uk"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Max-Coppin"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-    - label: "ReasearchGate"
+    - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Coppin-Max"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/file/CV.pdf"
 
-# Site Footer
+
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Max-Coppin"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "ReasearchGate"
+    - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Coppin-Max"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
 
 
-# Reading Files
 include:
   - .htaccess
   - _pages
@@ -283,35 +259,14 @@ compress_html:
 # Defaults
 
 defaults:
-  # _posts
-  - scope:
-      path: "posts"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
-
-defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-
-
-
-      
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-author_profile: true
+      toc: false
+      header:
+        overlay_color: "#000"
+        overlay_filter: 0.4
+        overlay_image: /file/fig_banniere.jpeg
