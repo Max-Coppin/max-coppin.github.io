@@ -3,17 +3,6 @@ permalink: /publication/
 title: "Publications"
 ---
 
-## Peer-reviewed articles
-
-<ul class="item-list">
-  <li>
-    <strong>M. Coppin</strong>, B. Deremble and J. Sommeria (2025).
-    Wind-mixed layer deepening in a rotating frame.
-    <em>Geophysical &amp; Astrophysical Fluid Dynamics</em>, 119(5), 646–684.
-    <span class="meta"><a href="https://doi.org/10.1080/03091929.2025.2609460">DOI</a> · <a href="/file/pub/wind-GAFD_2025.pdf">PDF</a></span>
-  </li>
-</ul>
-
 ## Submitted
 
 <ul class="item-list">
@@ -22,6 +11,17 @@ title: "Publications"
     Laboratory observations of a transient turbulent Ekman layer.
     Submitted to <em>Geophysical &amp; Astrophysical Fluid Dynamics</em>.
     <span class="meta"><a href="/file/pub/draft-TransientEk--GAFD_2026.pdf">Preprint (PDF)</a></span>
+  </li>
+</ul>
+
+## Peer-reviewed articles
+
+<ul class="item-list">
+  <li>
+    <strong>M. Coppin</strong>, B. Deremble and J. Sommeria (2025).
+    Wind-mixed layer deepening in a rotating frame.
+    <em>Geophysical &amp; Astrophysical Fluid Dynamics</em>, 119(5), 646–684.
+    <span class="meta"><a href="https://doi.org/10.1080/03091929.2025.2609460">DOI</a> · <a href="/file/pub/wind-GAFD_2025.pdf">PDF</a></span>
   </li>
 </ul>
 
