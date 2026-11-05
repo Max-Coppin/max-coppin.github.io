@@ -1,0 +1,12 @@
+# Jekyll build output (GitHub Pages rebuilds the site itself)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# macOS
+.DS_Store
+
+# Local tooling
+Gemfile.lock
+.claude/
